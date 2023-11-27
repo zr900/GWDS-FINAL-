@@ -34,6 +34,10 @@ body {
     background-color: aqua;
   }
 
+  .section2 { 
+    background-color: red;
+  }
+
   img {
     max-width: 100%;
     height: auto;
