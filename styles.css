@@ -96,3 +96,13 @@ button:active {
     height: 275px;
     padding: 4px;
 }
+
+.type-group{ 
+    width: 275px;
+}
+
+.type-item { 
+    width: 275px;
+    height: 275px;
+    padding: 4px;
+}
