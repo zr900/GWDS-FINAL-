@@ -87,3 +87,9 @@ button:active {
 .poster-group{ 
     width: 275px;
 }
+
+.poster-item { 
+    width: 275px;
+    height: 275px;
+    padding: 4px;
+}
