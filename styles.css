@@ -83,3 +83,7 @@ button:active {
   justify-content: space-evenly;
   flex-wrap: wrap;
 }
+
+.poster-group{ 
+    width: 275px;
+}
