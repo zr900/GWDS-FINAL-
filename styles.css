@@ -12,7 +12,7 @@ body {
     position: fixed;
     top: 0;
     width: 100%;
-    z-index: 1000;
+    z-index: 0;
   }
 
   main {
@@ -65,7 +65,7 @@ body {
 }
 
 button {
-  border: 1px solid blueviolet;
+  border: 1px solid #FF13B4;
   border-radius: 5px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: large;
@@ -75,13 +75,14 @@ button {
 }
 
 button:hover {
-  background-color: #6D39FA;
+  background-color: #FF13B4;
   color: white;
 }
 
 button:active {
-  background-color: #3e8e41;
-  box-shadow: 0 5px darkred; 
+  border: 1px solid #732851;
+  background-color: #A13872;
+  box-shadow: 0 5px #732851; 
   transform: translateY(4px);
 
 }
