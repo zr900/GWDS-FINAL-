@@ -33,19 +33,22 @@ body {
   .section1 { 
     border: 1px solid white;
     background-color: #A8A8A8;
-    color: #fff;
+
   }
 
   .section2 { 
     border: 1px solid white;
     background-color: #A8A8A8;
-    color: #fff;
   }
 
   .section3 { 
     border: 1px solid white;
     background-color: #A8A8A8;
-    color: #fff;
+  }
+
+  .section4 { 
+    border: 1px solid white;
+    background-color: #A8A8A8;
   }
 
   img {
