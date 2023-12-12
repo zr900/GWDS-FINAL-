@@ -21,7 +21,7 @@ body {
     flex-direction: column;
     justify-content: space-around;
     padding: 130px 20px 20px;
-    background-color: #1E0D52;
+    background-color: #470532;
   }
 
   section {
@@ -102,21 +102,21 @@ button:active {
 }
 
 .poster-group{ 
-    width: 275px;
+    width: 400px; 
 }
 
 .poster-item { 
-    width: 275px;
-    height: 275px;
+    width: 400px;
+    height: 566px;
     padding: 4px;
 }
 
 .type-group{ 
-    width: 275px;
+    width: 400px;
 }
 
 .type-item { 
-    width: 275px;
-    height: 275px;
+    width: 400px;
+    height: 400px;
     padding: 4px;
 }
